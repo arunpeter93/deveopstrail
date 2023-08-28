@@ -2,4 +2,7 @@ adkjfkandkcndakjnva
 dkjkjadnfoeufnkcdnakjdvna
 kjdkjadfiuqhfiencdakva
 kjdckakjdnueqjckakak
-nkcbakjda
+nkcbakjd
+This is a new update in git
+we have to use
+git --set-upstream master -f master
